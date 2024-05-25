@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello
 
-<!--
-**Nxirda/Nxirda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student in HPC, currently learning about parallel computing, optimization, distribution, and basically everything needed for good and fast code. 
 
-Here are some ideas to get you started:
+## Centers of interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Low level programming
+* Optimization
+
+## Programming languages
+* ![C](https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg)
+* ![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
+* Shell/Python for scripting
