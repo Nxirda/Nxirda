@@ -34,7 +34,7 @@ I'm a student in HPC, currently learning about parallel computing, optimization,
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Nxirda&count_private=true&show_icons=true&theme=transparent" />
   </a>
   <a href="Top languages used">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nxirda&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nxirda&layout=compact&langs_count=8&card_width=320&theme=transparent&exclude_repo=kwk_extension,eve,kiwaku,kumi,vim,raberu" />
   </a>
 </div>
 
